@@ -4,4 +4,4 @@
 *.obj/
 bin/
 vs/
-vbj/
+obj/
